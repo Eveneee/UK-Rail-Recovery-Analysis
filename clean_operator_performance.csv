@@ -1,0 +1,1210 @@
+Time_Period,Operator,Punctuality_Score,Year,Cancellation_Rate
+Apr to Jun 2014,Great Britain,87.6,2014,NA
+Jul to Sep 2014,Great Britain,85.9,2014,NA
+Oct to Dec 2014,Great Britain,80.6,2014,NA
+Jan to Mar 2015,Great Britain,85.7,2015,NA
+Apr to Jun 2015,Great Britain,87.3,2015,NA
+Jul to Sep 2015,Great Britain,85.8,2015,NA
+Oct to Dec 2015,Great Britain,79.4,2015,NA
+Jan to Mar 2016,Great Britain,84.4,2016,NA
+Apr to Jun 2016,Great Britain,85.6,2016,NA
+Jul to Sep 2016,Great Britain,83.6,2016,NA
+Oct to Dec 2016,Great Britain,78.5,2016,NA
+Jan to Mar 2017,Great Britain,84.8,2017,NA
+Apr to Jun 2017,Great Britain,86.8,2017,NA
+Jul to Sep 2017,Great Britain,85.2,2017,NA
+Oct to Dec 2017,Great Britain,79.2,2017,NA
+Jan to Mar 2018,Great Britain,83,2018,NA
+Apr to Jun 2018,Great Britain,84.2,2018,NA
+Jul to Sep 2018,Great Britain,82.7,2018,NA
+Oct to Dec 2018,Great Britain,79.6,2018,NA
+Jan to Mar 2019,Great Britain,85.9,2019,NA
+Apr to Jun 2019,Great Britain,87.5,2019,2.4
+Jul to Sep 2019,Great Britain,84.2,2019,3.4
+Oct to Dec 2019,Great Britain,79.7,2019,4.1
+Jan to Mar 2020,Great Britain,84.2,2020,3.8
+Apr to Jun 2020,Great Britain,95.8,2020,1.2
+Jul to Sep 2020,Great Britain,92.8,2020,2.1
+Oct to Dec 2020,Great Britain,90.7,2020,2.4
+Jan to Mar 2021,Great Britain,93.1,2021,2.4
+Apr to Jun 2021,Great Britain,92.2,2021,2.3
+Jul to Sep 2021,Great Britain,90.1,2021,3.4
+Oct to Dec 2021,Great Britain,85.9,2021,3.7
+Jan to Mar 2022,Great Britain,89,2022,3.9
+Apr to Jun 2022,Great Britain,88.8,2022,3.1
+Jul to Sep 2022,Great Britain,85.4,2022,4.1
+Oct to Dec 2022,Great Britain,81.6,2022,4.4
+Jan to Mar 2023,Great Britain,85.8,2023,3.4
+Apr to Jun 2023,Great Britain,87.1,2023,3.3
+Jul to Sep 2023,Great Britain,86.4,2023,3.5
+Oct to Dec 2023,Great Britain,81.2,2023,4.9
+Jan to Mar 2024,Great Britain,85.9,2024,3.3
+Apr to Jun 2024,Great Britain,86.9,2024,3.5
+Jul to Sep 2024,Great Britain,85.1,2024,4.2
+Oct to Dec 2024,Great Britain,81.1,2024,5.1
+Jan to Mar 2025,Great Britain,85.9,2025,3.4
+Apr to Jun 2025 [p],Great Britain,86.3,2025,NA
+Jul to Sep 2025 [p],Great Britain,84.8,2025,NA
+Apr to Jun 2014,England and Wales,87.3,2014,NA
+Jul to Sep 2014,England and Wales,86,2014,NA
+Oct to Dec 2014,England and Wales,80.4,2014,NA
+Jan to Mar 2015,England and Wales,85.6,2015,NA
+Apr to Jun 2015,England and Wales,86.9,2015,NA
+Jul to Sep 2015,England and Wales,85.5,2015,NA
+Oct to Dec 2015,England and Wales,79.3,2015,NA
+Jan to Mar 2016,England and Wales,84.1,2016,NA
+Apr to Jun 2016,England and Wales,85.4,2016,NA
+Jul to Sep 2016,England and Wales,83.4,2016,NA
+Oct to Dec 2016,England and Wales,78.3,2016,NA
+Jan to Mar 2017,England and Wales,84.5,2017,NA
+Apr to Jun 2017,England and Wales,86.6,2017,NA
+Jul to Sep 2017,England and Wales,84.8,2017,NA
+Oct to Dec 2017,England and Wales,79.3,2017,NA
+Jan to Mar 2018,England and Wales,82.8,2018,NA
+Apr to Jun 2018,England and Wales,83.9,2018,NA
+Jul to Sep 2018,England and Wales,82.6,2018,NA
+Oct to Dec 2018,England and Wales,79.7,2018,NA
+Jan to Mar 2019,England and Wales,85.8,2019,NA
+Apr to Jun 2019,England and Wales,87.2,2019,2.4
+Jul to Sep 2019,England and Wales,83.7,2019,3.5
+Oct to Dec 2019,England and Wales,79.2,2019,4.3
+Jan to Mar 2020,England and Wales,83.8,2020,3.9
+Apr to Jun 2020,England and Wales,95.8,2020,1.3
+Jul to Sep 2020,England and Wales,92.8,2020,2.1
+Oct to Dec 2020,England and Wales,90.7,2020,2.4
+Jan to Mar 2021,England and Wales,93,2021,2.4
+Apr to Jun 2021,England and Wales,92.1,2021,2.4
+Jul to Sep 2021,England and Wales,90,2021,3.4
+Oct to Dec 2021,England and Wales,85.9,2021,3.7
+Jan to Mar 2022,England and Wales,88.8,2022,4
+Apr to Jun 2022,England and Wales,88.5,2022,3.2
+Jul to Sep 2022,England and Wales,84.9,2022,4.3
+Oct to Dec 2022,England and Wales,81.3,2022,4.4
+Jan to Mar 2023,England and Wales,85.3,2023,3.5
+Apr to Jun 2023,England and Wales,86.6,2023,3.4
+Jul to Sep 2023,England and Wales,85.9,2023,3.7
+Oct to Dec 2023,England and Wales,80.7,2023,5
+Jan to Mar 2024,England and Wales,85.5,2024,3.5
+Apr to Jun 2024,England and Wales,86.5,2024,3.7
+Jul to Sep 2024,England and Wales,84.7,2024,4.4
+Oct to Dec 2024,England and Wales,80.7,2024,5.4
+Jan to Mar 2025,England and Wales,85.4,2025,3.6
+Apr to Jun 2025 [p],England and Wales,85.7,2025,NA
+Jul to Sep 2025 [p],England and Wales,84.3,2025,NA
+Apr to Jun 2014,Scotland,91.4,2014,NA
+Jul to Sep 2014,Scotland,85.5,2014,NA
+Oct to Dec 2014,Scotland,82.6,2014,NA
+Jan to Mar 2015,Scotland,87,2015,NA
+Apr to Jun 2015,Scotland,90.8,2015,NA
+Jul to Sep 2015,Scotland,88.7,2015,NA
+Oct to Dec 2015,Scotland,80.4,2015,NA
+Jan to Mar 2016,Scotland,87.4,2016,NA
+Apr to Jun 2016,Scotland,87.6,2016,NA
+Jul to Sep 2016,Scotland,84.8,2016,NA
+Oct to Dec 2016,Scotland,80.6,2016,NA
+Jan to Mar 2017,Scotland,88.2,2017,NA
+Apr to Jun 2017,Scotland,88.8,2017,NA
+Jul to Sep 2017,Scotland,88.9,2017,NA
+Oct to Dec 2017,Scotland,78.2,2017,NA
+Jan to Mar 2018,Scotland,85.4,2018,NA
+Apr to Jun 2018,Scotland,87.1,2018,NA
+Jul to Sep 2018,Scotland,84.4,2018,NA
+Oct to Dec 2018,Scotland,78.2,2018,NA
+Jan to Mar 2019,Scotland,87.4,2019,NA
+Apr to Jun 2019,Scotland,90.1,2019,2.8
+Jul to Sep 2019,Scotland,88.6,2019,2.3
+Oct to Dec 2019,Scotland,83.5,2019,2.6
+Jan to Mar 2020,Scotland,88,2020,2.3
+Apr to Jun 2020,Scotland,96.1,2020,1
+Jul to Sep 2020,Scotland,93.3,2020,2.4
+Oct to Dec 2020,Scotland,90.8,2020,2
+Jan to Mar 2021,Scotland,94,2021,2.5
+Apr to Jun 2021,Scotland,93.3,2021,1.7
+Jul to Sep 2021,Scotland,91.1,2021,2.7
+Oct to Dec 2021,Scotland,85.3,2021,3.7
+Jan to Mar 2022,Scotland,90.5,2022,2.9
+Apr to Jun 2022,Scotland,91.5,2022,2.5
+Jul to Sep 2022,Scotland,89.5,2022,2.3
+Oct to Dec 2022,Scotland,84.4,2022,4.7
+Jan to Mar 2023,Scotland,89.8,2023,2.2
+Apr to Jun 2023,Scotland,91.3,2023,2
+Jul to Sep 2023,Scotland,90.5,2023,2.1
+Oct to Dec 2023,Scotland,84.9,2023,3.3
+Jan to Mar 2024,Scotland,89.6,2024,2
+Apr to Jun 2024,Scotland,90.6,2024,1.8
+Jul to Sep 2024,Scotland,89.6,2024,1.9
+Oct to Dec 2024,Scotland,84.6,2024,2.7
+Jan to Mar 2025,Scotland,90.5,2025,1.9
+Apr to Jun 2025 [p],Scotland,90.9,2025,NA
+Jul to Sep 2025 [p],Scotland,88.7,2025,NA
+Apr to Jun 2014,Avanti West Coast,69.3,2014,NA
+Jul to Sep 2014,Avanti West Coast,69.2,2014,NA
+Oct to Dec 2014,Avanti West Coast,63.4,2014,NA
+Jan to Mar 2015,Avanti West Coast,69.7,2015,NA
+Apr to Jun 2015,Avanti West Coast,71.5,2015,NA
+Jul to Sep 2015,Avanti West Coast,72.3,2015,NA
+Oct to Dec 2015,Avanti West Coast,62.9,2015,NA
+Jan to Mar 2016,Avanti West Coast,69.8,2016,NA
+Apr to Jun 2016,Avanti West Coast,73.8,2016,NA
+Jul to Sep 2016,Avanti West Coast,73.8,2016,NA
+Oct to Dec 2016,Avanti West Coast,68.9,2016,NA
+Jan to Mar 2017,Avanti West Coast,76.4,2017,NA
+Apr to Jun 2017,Avanti West Coast,76.2,2017,NA
+Jul to Sep 2017,Avanti West Coast,75.4,2017,NA
+Oct to Dec 2017,Avanti West Coast,62.3,2017,NA
+Jan to Mar 2018,Avanti West Coast,68.4,2018,NA
+Apr to Jun 2018,Avanti West Coast,69.8,2018,NA
+Jul to Sep 2018,Avanti West Coast,64.9,2018,NA
+Oct to Dec 2018,Avanti West Coast,65,2018,NA
+Jan to Mar 2019,Avanti West Coast,71.6,2019,NA
+Apr to Jun 2019,Avanti West Coast,66.2,2019,1.5
+Jul to Sep 2019,Avanti West Coast,60.4,2019,2.7
+Oct to Dec 2019,Avanti West Coast,55.2,2019,3
+Jan to Mar 2020,Avanti West Coast,61.3,2020,4.6
+Apr to Jun 2020,Avanti West Coast,86.2,2020,1.2
+Jul to Sep 2020,Avanti West Coast,80.2,2020,2.4
+Oct to Dec 2020,Avanti West Coast,78.1,2020,1.9
+Jan to Mar 2021,Avanti West Coast,77.9,2021,2.4
+Apr to Jun 2021,Avanti West Coast,78.2,2021,2.4
+Jul to Sep 2021,Avanti West Coast,75.6,2021,2.9
+Oct to Dec 2021,Avanti West Coast,66,2021,5.5
+Jan to Mar 2022,Avanti West Coast,72.3,2022,4.7
+Apr to Jun 2022,Avanti West Coast,67.1,2022,7.8
+Jul to Sep 2022,Avanti West Coast,57.8,2022,12
+Oct to Dec 2022,Avanti West Coast,52.8,2022,10.5
+Jan to Mar 2023,Avanti West Coast,61.1,2023,6.6
+Apr to Jun 2023,Avanti West Coast,65.3,2023,3.5
+Jul to Sep 2023,Avanti West Coast,65.3,2023,3.9
+Oct to Dec 2023,Avanti West Coast,55.8,2023,11.3
+Jan to Mar 2024,Avanti West Coast,64.3,2024,8.8
+Apr to Jun 2024,Avanti West Coast,60.2,2024,7.8
+Jul to Sep 2024,Avanti West Coast,60.3,2024,5.7
+Oct to Dec 2024,Avanti West Coast,54.6,2024,6.9
+Jan to Mar 2025,Avanti West Coast,62,2025,4.9
+Apr to Jun 2025 [p],Avanti West Coast,58.5,2025,NA
+Jul to Sep 2025 [p],Avanti West Coast,57,2025,NA
+Apr to Jun 2014,c2c,96.7,2014,NA
+Jul to Sep 2014,c2c,96.7,2014,NA
+Oct to Dec 2014,c2c,96.6,2014,NA
+Jan to Mar 2015,c2c,97.2,2015,NA
+Apr to Jun 2015,c2c,97.4,2015,NA
+Jul to Sep 2015,c2c,97.2,2015,NA
+Oct to Dec 2015,c2c,95.1,2015,NA
+Jan to Mar 2016,c2c,95.1,2016,NA
+Apr to Jun 2016,c2c,95.6,2016,NA
+Jul to Sep 2016,c2c,94.3,2016,NA
+Oct to Dec 2016,c2c,91.9,2016,NA
+Jan to Mar 2017,c2c,95.5,2017,NA
+Apr to Jun 2017,c2c,95.1,2017,NA
+Jul to Sep 2017,c2c,95.8,2017,NA
+Oct to Dec 2017,c2c,96.6,2017,NA
+Jan to Mar 2018,c2c,95,2018,NA
+Apr to Jun 2018,c2c,95.2,2018,NA
+Jul to Sep 2018,c2c,93.6,2018,NA
+Oct to Dec 2018,c2c,95.3,2018,NA
+Jan to Mar 2019,c2c,96.2,2019,NA
+Apr to Jun 2019,c2c,96.3,2019,1.2
+Jul to Sep 2019,c2c,95.1,2019,1.5
+Oct to Dec 2019,c2c,93.9,2019,2.4
+Jan to Mar 2020,c2c,94.6,2020,1.1
+Apr to Jun 2020,c2c,97.3,2020,0.9
+Jul to Sep 2020,c2c,95.7,2020,0.9
+Oct to Dec 2020,c2c,94.7,2020,0.8
+Jan to Mar 2021,c2c,95.7,2021,1.5
+Apr to Jun 2021,c2c,96.2,2021,1.4
+Jul to Sep 2021,c2c,95.2,2021,1.4
+Oct to Dec 2021,c2c,94.3,2021,1.2
+Jan to Mar 2022,c2c,95.5,2022,1.3
+Apr to Jun 2022,c2c,94.2,2022,1.8
+Jul to Sep 2022,c2c,90.4,2022,2
+Oct to Dec 2022,c2c,91.4,2022,2.2
+Jan to Mar 2023,c2c,94.8,2023,1.6
+Apr to Jun 2023,c2c,93.6,2023,1.4
+Jul to Sep 2023,c2c,94.1,2023,1.3
+Oct to Dec 2023,c2c,91.9,2023,1.4
+Jan to Mar 2024,c2c,93.9,2024,1.5
+Apr to Jun 2024,c2c,93.8,2024,1.7
+Jul to Sep 2024,c2c,93.7,2024,1.4
+Oct to Dec 2024,c2c,92.8,2024,1.5
+Jan to Mar 2025,c2c,92.8,2025,2.2
+Apr to Jun 2025 [p],c2c,93.7,2025,NA
+Jul to Sep 2025 [p],c2c,90.4,2025,NA
+Jan to Mar 2015,Caledonian Sleeper,77.3,2015,NA
+Apr to Jun 2015,Caledonian Sleeper,76.1,2015,NA
+Jul to Sep 2015,Caledonian Sleeper,78,2015,NA
+Oct to Dec 2015,Caledonian Sleeper,70.5,2015,NA
+Jan to Mar 2016,Caledonian Sleeper,72.4,2016,NA
+Apr to Jun 2016,Caledonian Sleeper,77.2,2016,NA
+Jul to Sep 2016,Caledonian Sleeper,76.4,2016,NA
+Oct to Dec 2016,Caledonian Sleeper,68,2016,NA
+Jan to Mar 2017,Caledonian Sleeper,79.7,2017,NA
+Apr to Jun 2017,Caledonian Sleeper,79.2,2017,NA
+Jul to Sep 2017,Caledonian Sleeper,84.7,2017,NA
+Oct to Dec 2017,Caledonian Sleeper,68.4,2017,NA
+Jan to Mar 2018,Caledonian Sleeper,78,2018,NA
+Apr to Jun 2018,Caledonian Sleeper,82.6,2018,NA
+Jul to Sep 2018,Caledonian Sleeper,77.2,2018,NA
+Oct to Dec 2018,Caledonian Sleeper,76,2018,NA
+Jan to Mar 2019,Caledonian Sleeper,81.4,2019,NA
+Apr to Jun 2019,Caledonian Sleeper,74.2,2019,2.6
+Jul to Sep 2019,Caledonian Sleeper,74.3,2019,2.4
+Oct to Dec 2019,Caledonian Sleeper,63.7,2019,3.1
+Jan to Mar 2020,Caledonian Sleeper,76.8,2020,5.3
+Apr to Jun 2020,Caledonian Sleeper,85.3,2020,1.2
+Jul to Sep 2020,Caledonian Sleeper,83,2020,2.3
+Oct to Dec 2020,Caledonian Sleeper,80.1,2020,2.6
+Jan to Mar 2021,Caledonian Sleeper,83.1,2021,11.5
+Apr to Jun 2021,Caledonian Sleeper,79.2,2021,1.2
+Jul to Sep 2021,Caledonian Sleeper,77.6,2021,8.1
+Oct to Dec 2021,Caledonian Sleeper,72.2,2021,5
+Jan to Mar 2022,Caledonian Sleeper,82.1,2022,3.5
+Apr to Jun 2022,Caledonian Sleeper,81.5,2022,2.6
+Jul to Sep 2022,Caledonian Sleeper,77.5,2022,3.6
+Oct to Dec 2022,Caledonian Sleeper,71.1,2022,2.2
+Jan to Mar 2023,Caledonian Sleeper,79.3,2023,2.2
+Apr to Jun 2023,Caledonian Sleeper,77.8,2023,3.1
+Jul to Sep 2023,Caledonian Sleeper,85.5,2023,1.4
+Oct to Dec 2023,Caledonian Sleeper,67.3,2023,4.7
+Jan to Mar 2024,Caledonian Sleeper,78.8,2024,2.5
+Apr to Jun 2024,Caledonian Sleeper,82.4,2024,1.6
+Jul to Sep 2024,Caledonian Sleeper,84.9,2024,0.2
+Oct to Dec 2024,Caledonian Sleeper,72,2024,1.4
+Jan to Mar 2025,Caledonian Sleeper,74.1,2025,1.9
+Apr to Jun 2025 [p],Caledonian Sleeper,73.4,2025,NA
+Jul to Sep 2025 [p],Caledonian Sleeper,71.4,2025,NA
+Apr to Jun 2014,Chiltern Railways,92.2,2014,NA
+Jul to Sep 2014,Chiltern Railways,90.7,2014,NA
+Oct to Dec 2014,Chiltern Railways,86.3,2014,NA
+Jan to Mar 2015,Chiltern Railways,91.5,2015,NA
+Apr to Jun 2015,Chiltern Railways,90.1,2015,NA
+Jul to Sep 2015,Chiltern Railways,89.9,2015,NA
+Oct to Dec 2015,Chiltern Railways,83.1,2015,NA
+Jan to Mar 2016,Chiltern Railways,89.3,2016,NA
+Apr to Jun 2016,Chiltern Railways,87.9,2016,NA
+Jul to Sep 2016,Chiltern Railways,85.7,2016,NA
+Oct to Dec 2016,Chiltern Railways,85,2016,NA
+Jan to Mar 2017,Chiltern Railways,88.7,2017,NA
+Apr to Jun 2017,Chiltern Railways,87.5,2017,NA
+Jul to Sep 2017,Chiltern Railways,87.9,2017,NA
+Oct to Dec 2017,Chiltern Railways,84.3,2017,NA
+Jan to Mar 2018,Chiltern Railways,88,2018,NA
+Apr to Jun 2018,Chiltern Railways,88.9,2018,NA
+Jul to Sep 2018,Chiltern Railways,83,2018,NA
+Oct to Dec 2018,Chiltern Railways,85.3,2018,NA
+Jan to Mar 2019,Chiltern Railways,89.6,2019,NA
+Apr to Jun 2019,Chiltern Railways,89,2019,1
+Jul to Sep 2019,Chiltern Railways,85.4,2019,1.6
+Oct to Dec 2019,Chiltern Railways,82.2,2019,1.4
+Jan to Mar 2020,Chiltern Railways,86.6,2020,1.6
+Apr to Jun 2020,Chiltern Railways,94.6,2020,0.8
+Jul to Sep 2020,Chiltern Railways,92,2020,1.7
+Oct to Dec 2020,Chiltern Railways,91.4,2020,1.7
+Jan to Mar 2021,Chiltern Railways,94.2,2021,1.6
+Apr to Jun 2021,Chiltern Railways,91.6,2021,1.6
+Jul to Sep 2021,Chiltern Railways,88.5,2021,2.6
+Oct to Dec 2021,Chiltern Railways,86.9,2021,1.7
+Jan to Mar 2022,Chiltern Railways,92.2,2022,2
+Apr to Jun 2022,Chiltern Railways,90.7,2022,1.5
+Jul to Sep 2022,Chiltern Railways,84.7,2022,2.4
+Oct to Dec 2022,Chiltern Railways,85.1,2022,1.5
+Jan to Mar 2023,Chiltern Railways,88.4,2023,2.4
+Apr to Jun 2023,Chiltern Railways,87.6,2023,1.8
+Jul to Sep 2023,Chiltern Railways,92.1,2023,1.7
+Oct to Dec 2023,Chiltern Railways,89.2,2023,2.3
+Jan to Mar 2024,Chiltern Railways,90.6,2024,2.9
+Apr to Jun 2024,Chiltern Railways,92.5,2024,1.4
+Jul to Sep 2024,Chiltern Railways,89.3,2024,2.6
+Oct to Dec 2024,Chiltern Railways,87.7,2024,3.1
+Jan to Mar 2025,Chiltern Railways,92.7,2025,1.7
+Apr to Jun 2025 [p],Chiltern Railways,89.7,2025,NA
+Jul to Sep 2025 [p],Chiltern Railways,88.6,2025,NA
+Apr to Jun 2014,CrossCountry,76,2014,NA
+Jul to Sep 2014,CrossCountry,73.5,2014,NA
+Oct to Dec 2014,CrossCountry,64.7,2014,NA
+Jan to Mar 2015,CrossCountry,76,2015,NA
+Apr to Jun 2015,CrossCountry,76.6,2015,NA
+Jul to Sep 2015,CrossCountry,74.3,2015,NA
+Oct to Dec 2015,CrossCountry,65.7,2015,NA
+Jan to Mar 2016,CrossCountry,75.4,2016,NA
+Apr to Jun 2016,CrossCountry,77.8,2016,NA
+Jul to Sep 2016,CrossCountry,73.7,2016,NA
+Oct to Dec 2016,CrossCountry,67.2,2016,NA
+Jan to Mar 2017,CrossCountry,77.1,2017,NA
+Apr to Jun 2017,CrossCountry,76,2017,NA
+Jul to Sep 2017,CrossCountry,74,2017,NA
+Oct to Dec 2017,CrossCountry,63.4,2017,NA
+Jan to Mar 2018,CrossCountry,71.2,2018,NA
+Apr to Jun 2018,CrossCountry,69.1,2018,NA
+Jul to Sep 2018,CrossCountry,64.9,2018,NA
+Oct to Dec 2018,CrossCountry,64.6,2018,NA
+Jan to Mar 2019,CrossCountry,75.9,2019,NA
+Apr to Jun 2019,CrossCountry,74.1,2019,2.2
+Jul to Sep 2019,CrossCountry,68.8,2019,3.6
+Oct to Dec 2019,CrossCountry,62.3,2019,4.9
+Jan to Mar 2020,CrossCountry,70.6,2020,3.5
+Apr to Jun 2020,CrossCountry,91.9,2020,0.9
+Jul to Sep 2020,CrossCountry,85.7,2020,1.4
+Oct to Dec 2020,CrossCountry,81.6,2020,1.6
+Jan to Mar 2021,CrossCountry,86.2,2021,2.5
+Apr to Jun 2021,CrossCountry,84.5,2021,2.7
+Jul to Sep 2021,CrossCountry,80.1,2021,2.4
+Oct to Dec 2021,CrossCountry,73.7,2021,3.1
+Jan to Mar 2022,CrossCountry,80.1,2022,2.9
+Apr to Jun 2022,CrossCountry,77.8,2022,4.6
+Jul to Sep 2022,CrossCountry,67.6,2022,6.6
+Oct to Dec 2022,CrossCountry,65,2022,10.3
+Jan to Mar 2023,CrossCountry,73.7,2023,4.6
+Apr to Jun 2023,CrossCountry,70.3,2023,6.7
+Jul to Sep 2023,CrossCountry,69.4,2023,7.5
+Oct to Dec 2023,CrossCountry,61,2023,12.3
+Jan to Mar 2024,CrossCountry,70.9,2024,7
+Apr to Jun 2024,CrossCountry,72.6,2024,6.6
+Jul to Sep 2024,CrossCountry,68,2024,5.8
+Oct to Dec 2024,CrossCountry,61.9,2024,10.1
+Jan to Mar 2025,CrossCountry,74.3,2025,5.3
+Apr to Jun 2025 [p],CrossCountry,70.7,2025,NA
+Jul to Sep 2025 [p],CrossCountry,67.6,2025,NA
+Apr to Jun 2014,East Midlands Railway,81.9,2014,NA
+Jul to Sep 2014,East Midlands Railway,82.4,2014,NA
+Oct to Dec 2014,East Midlands Railway,76.3,2014,NA
+Jan to Mar 2015,East Midlands Railway,83.8,2015,NA
+Apr to Jun 2015,East Midlands Railway,86.8,2015,NA
+Jul to Sep 2015,East Midlands Railway,84.1,2015,NA
+Oct to Dec 2015,East Midlands Railway,76.5,2015,NA
+Jan to Mar 2016,East Midlands Railway,84.1,2016,NA
+Apr to Jun 2016,East Midlands Railway,84.5,2016,NA
+Jul to Sep 2016,East Midlands Railway,82,2016,NA
+Oct to Dec 2016,East Midlands Railway,75.3,2016,NA
+Jan to Mar 2017,East Midlands Railway,84.9,2017,NA
+Apr to Jun 2017,East Midlands Railway,84.6,2017,NA
+Jul to Sep 2017,East Midlands Railway,83.7,2017,NA
+Oct to Dec 2017,East Midlands Railway,74.6,2017,NA
+Jan to Mar 2018,East Midlands Railway,79.3,2018,NA
+Apr to Jun 2018,East Midlands Railway,80.4,2018,NA
+Jul to Sep 2018,East Midlands Railway,76.3,2018,NA
+Oct to Dec 2018,East Midlands Railway,71.2,2018,NA
+Jan to Mar 2019,East Midlands Railway,80.9,2019,NA
+Apr to Jun 2019,East Midlands Railway,81.6,2019,1.2
+Jul to Sep 2019,East Midlands Railway,78.3,2019,1.8
+Oct to Dec 2019,East Midlands Railway,69.7,2019,2.2
+Jan to Mar 2020,East Midlands Railway,78.8,2020,1.7
+Apr to Jun 2020,East Midlands Railway,93.3,2020,1.1
+Jul to Sep 2020,East Midlands Railway,89.4,2020,1.2
+Oct to Dec 2020,East Midlands Railway,85.8,2020,2.4
+Jan to Mar 2021,East Midlands Railway,89.1,2021,1.8
+Apr to Jun 2021,East Midlands Railway,83.6,2021,2.4
+Jul to Sep 2021,East Midlands Railway,78.2,2021,2.8
+Oct to Dec 2021,East Midlands Railway,71.8,2021,3.3
+Jan to Mar 2022,East Midlands Railway,79.1,2022,2.9
+Apr to Jun 2022,East Midlands Railway,78.3,2022,2.6
+Jul to Sep 2022,East Midlands Railway,72.4,2022,3.6
+Oct to Dec 2022,East Midlands Railway,68.8,2022,3.3
+Jan to Mar 2023,East Midlands Railway,77.4,2023,2.2
+Apr to Jun 2023,East Midlands Railway,75.7,2023,2.3
+Jul to Sep 2023,East Midlands Railway,75.8,2023,2.5
+Oct to Dec 2023,East Midlands Railway,66.3,2023,5.7
+Jan to Mar 2024,East Midlands Railway,75.1,2024,2.9
+Apr to Jun 2024,East Midlands Railway,77.2,2024,2.6
+Jul to Sep 2024,East Midlands Railway,74,2024,3.7
+Oct to Dec 2024,East Midlands Railway,70.9,2024,4.7
+Jan to Mar 2025,East Midlands Railway,78.1,2025,3.3
+Apr to Jun 2025 [p],East Midlands Railway,77.6,2025,NA
+Jul to Sep 2025 [p],East Midlands Railway,75.4,2025,NA
+Apr to Jun 2014,Elizabeth line,90.8,2014,NA
+Jul to Sep 2014,Elizabeth line,89.5,2014,NA
+Oct to Dec 2014,Elizabeth line,87,2014,NA
+Jan to Mar 2015,Elizabeth line,89.7,2015,NA
+Apr to Jun 2015,Elizabeth line,89.8,2015,NA
+Jul to Sep 2015,Elizabeth line,92.4,2015,NA
+Oct to Dec 2015,Elizabeth line,89.9,2015,NA
+Jan to Mar 2016,Elizabeth line,91.4,2016,NA
+Apr to Jun 2016,Elizabeth line,92.4,2016,NA
+Jul to Sep 2016,Elizabeth line,91,2016,NA
+Oct to Dec 2016,Elizabeth line,87.7,2016,NA
+Jan to Mar 2017,Elizabeth line,91.2,2017,NA
+Apr to Jun 2017,Elizabeth line,90.6,2017,NA
+Jul to Sep 2017,Elizabeth line,90.6,2017,NA
+Oct to Dec 2017,Elizabeth line,85.1,2017,NA
+Jan to Mar 2018,Elizabeth line,88.7,2018,NA
+Apr to Jun 2018,Elizabeth line,93,2018,NA
+Jul to Sep 2018,Elizabeth line,92.1,2018,NA
+Oct to Dec 2018,Elizabeth line,90.3,2018,NA
+Jan to Mar 2019,Elizabeth line,93.2,2019,NA
+Apr to Jun 2019,Elizabeth line,94.9,2019,1.3
+Jul to Sep 2019,Elizabeth line,93.9,2019,1.5
+Oct to Dec 2019,Elizabeth line,92.2,2019,1.6
+Jan to Mar 2020,Elizabeth line,91.5,2020,1.8
+Apr to Jun 2020,Elizabeth line,97.6,2020,1.3
+Jul to Sep 2020,Elizabeth line,96.6,2020,1.4
+Oct to Dec 2020,Elizabeth line,95.4,2020,2.2
+Jan to Mar 2021,Elizabeth line,95.8,2021,1.8
+Apr to Jun 2021,Elizabeth line,95.6,2021,2.1
+Jul to Sep 2021,Elizabeth line,95.6,2021,1.9
+Oct to Dec 2021,Elizabeth line,92.8,2021,2.5
+Jan to Mar 2022,Elizabeth line,93.4,2022,2.4
+Apr to Jun 2022,Elizabeth line [note 4],95.3,2022,NA
+Jul to Sep 2022,Elizabeth line,94.6,2022,1.9
+Oct to Dec 2022,Elizabeth line,92.4,2022,2.8
+Jan to Mar 2023,Elizabeth line,93,2023,3.1
+Apr to Jun 2023,Elizabeth line,90.8,2023,3.7
+Jul to Sep 2023,Elizabeth line,91.4,2023,5.2
+Oct to Dec 2023,Elizabeth line,87.4,2023,4.4
+Jan to Mar 2024,Elizabeth line,91.7,2024,3.2
+Apr to Jun 2024,Elizabeth line,92.4,2024,2.7
+Jul to Sep 2024,Elizabeth line,91.4,2024,4.2
+Oct to Dec 2024,Elizabeth line,90.5,2024,3.7
+Jan to Mar 2025,Elizabeth line,88.4,2025,5
+Apr to Jun 2025 [p],Elizabeth line,92,2025,NA
+Jul to Sep 2025 [p],Elizabeth line,90.6,2025,NA
+Apr to Jun 2014,Govia Thameslink Railway,86.3,2014,NA
+Jul to Sep 2014,Govia Thameslink Railway,86,2014,NA
+Oct to Dec 2014,Govia Thameslink Railway,78,2014,NA
+Jan to Mar 2015,Govia Thameslink Railway,80,2015,NA
+Apr to Jun 2015,Govia Thameslink Railway,85.1,2015,NA
+Jul to Sep 2015,Govia Thameslink Railway,82.7,2015,NA
+Oct to Dec 2015,Govia Thameslink Railway,74.2,2015,NA
+Jan to Mar 2016,Govia Thameslink Railway,78.5,2016,NA
+Apr to Jun 2016,Govia Thameslink Railway,78.2,2016,NA
+Jul to Sep 2016,Govia Thameslink Railway,74.7,2016,NA
+Oct to Dec 2016,Govia Thameslink Railway,69.5,2016,NA
+Jan to Mar 2017,Govia Thameslink Railway,78.4,2017,NA
+Apr to Jun 2017,Govia Thameslink Railway,83.7,2017,NA
+Jul to Sep 2017,Govia Thameslink Railway,82.9,2017,NA
+Oct to Dec 2017,Govia Thameslink Railway,76.4,2017,NA
+Jan to Mar 2018,Govia Thameslink Railway,80.7,2018,NA
+Apr to Jun 2018,Govia Thameslink Railway,84.3,2018,NA
+Jul to Sep 2018,Govia Thameslink Railway,85.9,2018,NA
+Oct to Dec 2018,Govia Thameslink Railway,83.8,2018,NA
+Jan to Mar 2019,Govia Thameslink Railway,87.4,2019,NA
+Apr to Jun 2019,Govia Thameslink Railway,90,2019,3.5
+Jul to Sep 2019,Govia Thameslink Railway,87.3,2019,5.2
+Oct to Dec 2019,Govia Thameslink Railway,83.8,2019,4.7
+Jan to Mar 2020,Govia Thameslink Railway,86.5,2020,4.5
+Apr to Jun 2020,Govia Thameslink Railway,95.9,2020,1.8
+Jul to Sep 2020,Govia Thameslink Railway,92.2,2020,4.1
+Oct to Dec 2020,Govia Thameslink Railway,90.1,2020,3.7
+Jan to Mar 2021,Govia Thameslink Railway,91.2,2021,3.6
+Apr to Jun 2021,Govia Thameslink Railway,92.2,2021,3.7
+Jul to Sep 2021,Govia Thameslink Railway,89.6,2021,7.2
+Oct to Dec 2021,Govia Thameslink Railway,87.7,2021,5.5
+Jan to Mar 2022,Govia Thameslink Railway,88.1,2022,6.4
+Apr to Jun 2022,Govia Thameslink Railway,89,2022,5.2
+Jul to Sep 2022,Govia Thameslink Railway,83.8,2022,8
+Oct to Dec 2022,Govia Thameslink Railway,81.2,2022,6.5
+Jan to Mar 2023,Govia Thameslink Railway,85,2023,4.4
+Apr to Jun 2023,Govia Thameslink Railway,87.9,2023,4.2
+Jul to Sep 2023,Govia Thameslink Railway,86.8,2023,4.1
+Oct to Dec 2023,Govia Thameslink Railway,82.5,2023,5.2
+Jan to Mar 2024,Govia Thameslink Railway,84.8,2024,4.2
+Apr to Jun 2024,Govia Thameslink Railway,86.4,2024,5
+Jul to Sep 2024,Govia Thameslink Railway,85,2024,5.8
+Oct to Dec 2024,Govia Thameslink Railway,82.8,2024,6.6
+Jan to Mar 2025,Govia Thameslink Railway,85.8,2025,4.8
+Apr to Jun 2025 [p],Govia Thameslink Railway,86.3,2025,NA
+Jul to Sep 2025 [p],Govia Thameslink Railway,84.7,2025,NA
+Apr to Jun 2014,Grand Central,76.2,2014,NA
+Jul to Sep 2014,Grand Central,75.6,2014,NA
+Oct to Dec 2014,Grand Central,69.2,2014,NA
+Jan to Mar 2015,Grand Central,78.9,2015,NA
+Apr to Jun 2015,Grand Central,79.4,2015,NA
+Jul to Sep 2015,Grand Central,75.7,2015,NA
+Oct to Dec 2015,Grand Central,67.8,2015,NA
+Jan to Mar 2016,Grand Central,74.1,2016,NA
+Apr to Jun 2016,Grand Central,75.2,2016,NA
+Jul to Sep 2016,Grand Central,73.5,2016,NA
+Oct to Dec 2016,Grand Central,67,2016,NA
+Jan to Mar 2017,Grand Central,74.1,2017,NA
+Apr to Jun 2017,Grand Central,73.6,2017,NA
+Jul to Sep 2017,Grand Central,74.3,2017,NA
+Oct to Dec 2017,Grand Central,67.5,2017,NA
+Jan to Mar 2018,Grand Central,69.5,2018,NA
+Apr to Jun 2018,Grand Central,67.5,2018,NA
+Jul to Sep 2018,Grand Central,64.5,2018,NA
+Oct to Dec 2018,Grand Central,65.7,2018,NA
+Jan to Mar 2019,Grand Central,72.2,2019,NA
+Apr to Jun 2019,Grand Central,71.5,2019,2.5
+Jul to Sep 2019,Grand Central,67.6,2019,4.1
+Oct to Dec 2019,Grand Central,62.8,2019,3.2
+Jan to Mar 2020,Grand Central,70.2,2020,3.6
+Apr to Jun 2020,Grand Central [note 1],94.8,2020,NA
+Jul to Sep 2020,Grand Central [note 1],86.5,2020,NA
+Oct to Dec 2020,Grand Central [note 1],84.7,2020,NA
+Jan to Mar 2021,Grand Central [note 1],87.4,2021,NA
+Apr to Jun 2021,Grand Central,86.6,2021,1.8
+Jul to Sep 2021,Grand Central,78.6,2021,2.2
+Oct to Dec 2021,Grand Central,70.4,2021,3.3
+Jan to Mar 2022,Grand Central,75.2,2022,3.2
+Apr to Jun 2022,Grand Central,72.3,2022,2.9
+Jul to Sep 2022,Grand Central,68.1,2022,7
+Oct to Dec 2022,Grand Central,58.8,2022,5
+Jan to Mar 2023,Grand Central,66.9,2023,5.7
+Apr to Jun 2023,Grand Central,68.5,2023,7.6
+Jul to Sep 2023,Grand Central,62.9,2023,6.5
+Oct to Dec 2023,Grand Central,56,2023,7.7
+Jan to Mar 2024,Grand Central,66.2,2024,5.7
+Apr to Jun 2024,Grand Central,70,2024,3
+Jul to Sep 2024,Grand Central,64.9,2024,3.9
+Oct to Dec 2024,Grand Central,62.4,2024,4.4
+Jan to Mar 2025,Grand Central,67.3,2025,3.6
+Apr to Jun 2025 [p],Grand Central,67.3,2025,NA
+Jul to Sep 2025 [p],Grand Central,64.8,2025,NA
+Apr to Jun 2014,Great Western Railway,80.2,2014,NA
+Jul to Sep 2014,Great Western Railway,77.6,2014,NA
+Oct to Dec 2014,Great Western Railway,72.4,2014,NA
+Jan to Mar 2015,Great Western Railway,82.3,2015,NA
+Apr to Jun 2015,Great Western Railway,80.9,2015,NA
+Jul to Sep 2015,Great Western Railway,79.1,2015,NA
+Oct to Dec 2015,Great Western Railway,76.4,2015,NA
+Jan to Mar 2016,Great Western Railway,83.2,2016,NA
+Apr to Jun 2016,Great Western Railway,82.5,2016,NA
+Jul to Sep 2016,Great Western Railway,77.1,2016,NA
+Oct to Dec 2016,Great Western Railway,74.4,2016,NA
+Jan to Mar 2017,Great Western Railway,81.5,2017,NA
+Apr to Jun 2017,Great Western Railway,79.2,2017,NA
+Jul to Sep 2017,Great Western Railway,76,2017,NA
+Oct to Dec 2017,Great Western Railway,73,2017,NA
+Jan to Mar 2018,Great Western Railway,78.6,2018,NA
+Apr to Jun 2018,Great Western Railway,74.2,2018,NA
+Jul to Sep 2018,Great Western Railway,73.2,2018,NA
+Oct to Dec 2018,Great Western Railway,75.6,2018,NA
+Jan to Mar 2019,Great Western Railway,84.7,2019,NA
+Apr to Jun 2019,Great Western Railway,85.7,2019,1.7
+Jul to Sep 2019,Great Western Railway,82.9,2019,2.6
+Oct to Dec 2019,Great Western Railway,80.3,2019,3
+Jan to Mar 2020,Great Western Railway,81.8,2020,3
+Apr to Jun 2020,Great Western Railway,95,2020,1
+Jul to Sep 2020,Great Western Railway,91.2,2020,1.1
+Oct to Dec 2020,Great Western Railway,89.8,2020,2.1
+Jan to Mar 2021,Great Western Railway,92.5,2021,1.7
+Apr to Jun 2021,Great Western Railway,88.8,2021,1.9
+Jul to Sep 2021,Great Western Railway,83.9,2021,3.8
+Oct to Dec 2021,Great Western Railway,83.5,2021,3.4
+Jan to Mar 2022,Great Western Railway,87.1,2022,2.9
+Apr to Jun 2022,Great Western Railway,84.2,2022,2.5
+Jul to Sep 2022,Great Western Railway,78.1,2022,3.5
+Oct to Dec 2022,Great Western Railway,76.5,2022,3.9
+Jan to Mar 2023,Great Western Railway,81.2,2023,3.1
+Apr to Jun 2023,Great Western Railway,79,2023,3.2
+Jul to Sep 2023,Great Western Railway,76.8,2023,4.4
+Oct to Dec 2023,Great Western Railway,73.5,2023,6.4
+Jan to Mar 2024,Great Western Railway,77.9,2024,4.4
+Apr to Jun 2024,Great Western Railway,80.8,2024,4
+Jul to Sep 2024,Great Western Railway,77.4,2024,4.8
+Oct to Dec 2024,Great Western Railway,73.8,2024,6.3
+Jan to Mar 2025,Great Western Railway,82,2025,3.4
+Apr to Jun 2025 [p],Great Western Railway,81.5,2025,NA
+Jul to Sep 2025 [p],Great Western Railway,76.7,2025,NA
+Apr to Jun 2014,Greater Anglia,88.7,2014,NA
+Jul to Sep 2014,Greater Anglia,86.7,2014,NA
+Oct to Dec 2014,Greater Anglia,83.5,2014,NA
+Jan to Mar 2015,Greater Anglia,87.6,2015,NA
+Apr to Jun 2015,Greater Anglia,87.5,2015,NA
+Jul to Sep 2015,Greater Anglia,85.7,2015,NA
+Oct to Dec 2015,Greater Anglia,82.2,2015,NA
+Jan to Mar 2016,Greater Anglia,86.2,2016,NA
+Apr to Jun 2016,Greater Anglia,88,2016,NA
+Jul to Sep 2016,Greater Anglia,85.3,2016,NA
+Oct to Dec 2016,Greater Anglia,80,2016,NA
+Jan to Mar 2017,Greater Anglia,86,2017,NA
+Apr to Jun 2017,Greater Anglia,87,2017,NA
+Jul to Sep 2017,Greater Anglia,86.3,2017,NA
+Oct to Dec 2017,Greater Anglia,82.3,2017,NA
+Jan to Mar 2018,Greater Anglia,83.6,2018,NA
+Apr to Jun 2018,Greater Anglia,85.6,2018,NA
+Jul to Sep 2018,Greater Anglia,83.2,2018,NA
+Oct to Dec 2018,Greater Anglia,80.4,2018,NA
+Jan to Mar 2019,Greater Anglia,88.3,2019,NA
+Apr to Jun 2019,Greater Anglia,91.5,2019,2.1
+Jul to Sep 2019,Greater Anglia,87.6,2019,3.3
+Oct to Dec 2019,Greater Anglia,84.7,2019,3.4
+Jan to Mar 2020,Greater Anglia,86.7,2020,3.9
+Apr to Jun 2020,Greater Anglia,96.6,2020,1.4
+Jul to Sep 2020,Greater Anglia,94.8,2020,1.9
+Oct to Dec 2020,Greater Anglia,93.5,2020,2.1
+Jan to Mar 2021,Greater Anglia,94.1,2021,2
+Apr to Jun 2021,Greater Anglia,95.2,2021,1.5
+Jul to Sep 2021,Greater Anglia,94.8,2021,1.7
+Oct to Dec 2021,Greater Anglia,93.8,2021,1.7
+Jan to Mar 2022,Greater Anglia,95.2,2022,2.4
+Apr to Jun 2022,Greater Anglia,95.2,2022,1.5
+Jul to Sep 2022,Greater Anglia,91.6,2022,2
+Oct to Dec 2022,Greater Anglia,89.5,2022,1.6
+Jan to Mar 2023,Greater Anglia,93.6,2023,1.1
+Apr to Jun 2023,Greater Anglia,94.8,2023,1.4
+Jul to Sep 2023,Greater Anglia,94.7,2023,1.5
+Oct to Dec 2023,Greater Anglia,93.4,2023,1.6
+Jan to Mar 2024,Greater Anglia,94.4,2024,1.9
+Apr to Jun 2024,Greater Anglia,94.9,2024,1.6
+Jul to Sep 2024,Greater Anglia,94.4,2024,1.7
+Oct to Dec 2024,Greater Anglia,92.8,2024,1.8
+Jan to Mar 2025,Greater Anglia,93.6,2025,2
+Apr to Jun 2025 [p],Greater Anglia,93.4,2025,NA
+Jul to Sep 2025 [p],Greater Anglia,90.8,2025,NA
+Apr to Jun 2014,Heathrow Express,93.8,2014,NA
+Jul to Sep 2014,Heathrow Express,94.6,2014,NA
+Oct to Dec 2014,Heathrow Express,90.1,2014,NA
+Jan to Mar 2015,Heathrow Express,92.6,2015,NA
+Apr to Jun 2015,Heathrow Express,92.9,2015,NA
+Jul to Sep 2015,Heathrow Express,92.4,2015,NA
+Oct to Dec 2015,Heathrow Express,90.9,2015,NA
+Jan to Mar 2016,Heathrow Express,93.5,2016,NA
+Apr to Jun 2016,Heathrow Express,88.8,2016,NA
+Jul to Sep 2016,Heathrow Express,92.3,2016,NA
+Oct to Dec 2016,Heathrow Express,88.4,2016,NA
+Jan to Mar 2017,Heathrow Express,88.5,2017,NA
+Apr to Jun 2017,Heathrow Express,90.6,2017,NA
+Jul to Sep 2017,Heathrow Express,93.1,2017,NA
+Oct to Dec 2017,Heathrow Express,88.4,2017,NA
+Jan to Mar 2018,Heathrow Express,91.1,2018,NA
+Apr to Jun 2018,Heathrow Express,88.9,2018,NA
+Jul to Sep 2018,Heathrow Express,92.6,2018,NA
+Oct to Dec 2018,Heathrow Express,90.3,2018,NA
+Jan to Mar 2019,Heathrow Express,93.7,2019,NA
+Apr to Jun 2019,Heathrow Express,95,2019,1.4
+Jul to Sep 2019,Heathrow Express,94.5,2019,1.4
+Oct to Dec 2019,Heathrow Express,94.7,2019,2.5
+Jan to Mar 2020,Heathrow Express,93,2020,2.9
+Apr to Jun 2020,Heathrow Express,98.1,2020,2
+Jul to Sep 2020,Heathrow Express,97.5,2020,0.7
+Oct to Dec 2020,Heathrow Express,94.8,2020,1.4
+Jan to Mar 2021,Heathrow Express,90,2021,3.5
+Apr to Jun 2021,Heathrow Express,92.6,2021,4.2
+Jul to Sep 2021,Heathrow Express,93.3,2021,3.4
+Oct to Dec 2021,Heathrow Express,93.3,2021,3.6
+Jan to Mar 2022,Heathrow Express,92.2,2022,3.9
+Apr to Jun 2022,Heathrow Express,92.5,2022,4
+Jul to Sep 2022,Heathrow Express,89.7,2022,4.3
+Oct to Dec 2022,Heathrow Express,91.1,2022,5.5
+Jan to Mar 2023,Heathrow Express,90.7,2023,3.8
+Apr to Jun 2023,Heathrow Express,91.3,2023,1.7
+Jul to Sep 2023,Heathrow Express,89,2023,3.5
+Oct to Dec 2023,Heathrow Express,82.4,2023,5.8
+Jan to Mar 2024,Heathrow Express,87.6,2024,3.4
+Apr to Jun 2024,Heathrow Express,90.1,2024,3.1
+Jul to Sep 2024,Heathrow Express,89.6,2024,4.9
+Oct to Dec 2024,Heathrow Express,88.8,2024,3.7
+Jan to Mar 2025,Heathrow Express,87.8,2025,3.2
+Apr to Jun 2025 [p],Heathrow Express,90.8,2025,NA
+Jul to Sep 2025 [p],Heathrow Express,90.3,2025,NA
+Apr to Jun 2014,Hull Trains,73.8,2014,NA
+Jul to Sep 2014,Hull Trains,74.1,2014,NA
+Oct to Dec 2014,Hull Trains,68,2014,NA
+Jan to Mar 2015,Hull Trains,78.9,2015,NA
+Apr to Jun 2015,Hull Trains,77.5,2015,NA
+Jul to Sep 2015,Hull Trains,76.3,2015,NA
+Oct to Dec 2015,Hull Trains,63.7,2015,NA
+Jan to Mar 2016,Hull Trains,71,2016,NA
+Apr to Jun 2016,Hull Trains,72,2016,NA
+Jul to Sep 2016,Hull Trains,65.6,2016,NA
+Oct to Dec 2016,Hull Trains,63,2016,NA
+Jan to Mar 2017,Hull Trains,68.8,2017,NA
+Apr to Jun 2017,Hull Trains,68.3,2017,NA
+Jul to Sep 2017,Hull Trains,64.8,2017,NA
+Oct to Dec 2017,Hull Trains,62.2,2017,NA
+Jan to Mar 2018,Hull Trains,53.9,2018,NA
+Apr to Jun 2018,Hull Trains,60.5,2018,NA
+Jul to Sep 2018,Hull Trains,54.2,2018,NA
+Oct to Dec 2018,Hull Trains,50.4,2018,NA
+Jan to Mar 2019,Hull Trains,61.1,2019,NA
+Apr to Jun 2019,Hull Trains,69.5,2019,3.7
+Jul to Sep 2019,Hull Trains,66,2019,5.3
+Oct to Dec 2019,Hull Trains,56.8,2019,3.3
+Jan to Mar 2020,Hull Trains [note 2],68.7,2020,NA
+Apr to Jun 2020,Hull Trains [note 2],0,2020,NA
+Jul to Sep 2020,Hull Trains [note 2],77,2020,NA
+Oct to Dec 2020,Hull Trains [note 2],81.8,2020,NA
+Jan to Mar 2021,Hull Trains [note 2],86.8,2021,NA
+Apr to Jun 2021,Hull Trains [note 2],86.9,2021,NA
+Jul to Sep 2021,Hull Trains,83.8,2021,2.4
+Oct to Dec 2021,Hull Trains,71,2021,1.8
+Jan to Mar 2022,Hull Trains,79.1,2022,1.8
+Apr to Jun 2022,Hull Trains,83.6,2022,1.8
+Jul to Sep 2022,Hull Trains,75.2,2022,4.7
+Oct to Dec 2022,Hull Trains,64.1,2022,3
+Jan to Mar 2023,Hull Trains,76.2,2023,1.3
+Apr to Jun 2023,Hull Trains,74.9,2023,1.7
+Jul to Sep 2023,Hull Trains,76.4,2023,1
+Oct to Dec 2023,Hull Trains,64.9,2023,4.3
+Jan to Mar 2024,Hull Trains,71.3,2024,2.2
+Apr to Jun 2024,Hull Trains,76.5,2024,1.1
+Jul to Sep 2024,Hull Trains,72.9,2024,2.3
+Oct to Dec 2024,Hull Trains,65.5,2024,3
+Jan to Mar 2025,Hull Trains,70.9,2025,1.2
+Apr to Jun 2025 [p],Hull Trains,72.6,2025,NA
+Jul to Sep 2025 [p],Hull Trains,71.5,2025,NA
+Apr to Jun 2014,London North Eastern Railway,76.5,2014,NA
+Jul to Sep 2014,London North Eastern Railway,72.6,2014,NA
+Oct to Dec 2014,London North Eastern Railway,65.2,2014,NA
+Jan to Mar 2015,London North Eastern Railway,77.3,2015,NA
+Apr to Jun 2015,London North Eastern Railway,76.1,2015,NA
+Jul to Sep 2015,London North Eastern Railway,73.9,2015,NA
+Oct to Dec 2015,London North Eastern Railway,62.2,2015,NA
+Jan to Mar 2016,London North Eastern Railway,68.5,2016,NA
+Apr to Jun 2016,London North Eastern Railway,72.1,2016,NA
+Jul to Sep 2016,London North Eastern Railway,68.1,2016,NA
+Oct to Dec 2016,London North Eastern Railway,62,2016,NA
+Jan to Mar 2017,London North Eastern Railway,73.5,2017,NA
+Apr to Jun 2017,London North Eastern Railway,73.6,2017,NA
+Jul to Sep 2017,London North Eastern Railway,71.6,2017,NA
+Oct to Dec 2017,London North Eastern Railway,60.8,2017,NA
+Jan to Mar 2018,London North Eastern Railway,58.8,2018,NA
+Apr to Jun 2018,London North Eastern Railway,59.9,2018,NA
+Jul to Sep 2018,London North Eastern Railway,55.6,2018,NA
+Oct to Dec 2018,London North Eastern Railway,54.7,2018,NA
+Jan to Mar 2019,London North Eastern Railway,64.6,2019,NA
+Apr to Jun 2019,London North Eastern Railway,66,2019,2.5
+Jul to Sep 2019,London North Eastern Railway,62.2,2019,3.3
+Oct to Dec 2019,London North Eastern Railway,56.3,2019,3.7
+Jan to Mar 2020,London North Eastern Railway,69.2,2020,2.7
+Apr to Jun 2020,London North Eastern Railway,91.6,2020,0.4
+Jul to Sep 2020,London North Eastern Railway,90.2,2020,2.1
+Oct to Dec 2020,London North Eastern Railway,86.9,2020,2.7
+Jan to Mar 2021,London North Eastern Railway,87.4,2021,3.7
+Apr to Jun 2021,London North Eastern Railway,88.2,2021,3
+Jul to Sep 2021,London North Eastern Railway,83.9,2021,2.7
+Oct to Dec 2021,London North Eastern Railway,78.1,2021,3.2
+Jan to Mar 2022,London North Eastern Railway,80.6,2022,3.4
+Apr to Jun 2022,London North Eastern Railway,81.4,2022,2.1
+Jul to Sep 2022,London North Eastern Railway,75.1,2022,6.5
+Oct to Dec 2022,London North Eastern Railway,64.4,2022,5.6
+Jan to Mar 2023,London North Eastern Railway,74.8,2023,3.5
+Apr to Jun 2023,London North Eastern Railway,75.8,2023,3.2
+Jul to Sep 2023,London North Eastern Railway,75.8,2023,2.5
+Oct to Dec 2023,London North Eastern Railway,63.8,2023,9
+Jan to Mar 2024,London North Eastern Railway,73,2024,4.7
+Apr to Jun 2024,London North Eastern Railway,75.7,2024,3.8
+Jul to Sep 2024,London North Eastern Railway,72.6,2024,5.4
+Oct to Dec 2024,London North Eastern Railway,69.5,2024,3.2
+Jan to Mar 2025,London North Eastern Railway,73.5,2025,2.7
+Apr to Jun 2025 [p],London North Eastern Railway,75.2,2025,NA
+Jul to Sep 2025 [p],London North Eastern Railway,73.1,2025,NA
+Apr to Jun 2014,London Overground,94,2014,NA
+Jul to Sep 2014,London Overground,93.1,2014,NA
+Oct to Dec 2014,London Overground,89.7,2014,NA
+Jan to Mar 2015,London Overground,89.7,2015,NA
+Apr to Jun 2015,London Overground,91.3,2015,NA
+Jul to Sep 2015,London Overground,91.2,2015,NA
+Oct to Dec 2015,London Overground,88.3,2015,NA
+Jan to Mar 2016,London Overground,89.3,2016,NA
+Apr to Jun 2016,London Overground,91.1,2016,NA
+Jul to Sep 2016,London Overground,90.5,2016,NA
+Oct to Dec 2016,London Overground,88.5,2016,NA
+Jan to Mar 2017,London Overground,90.3,2017,NA
+Apr to Jun 2017,London Overground,92.1,2017,NA
+Jul to Sep 2017,London Overground,91.4,2017,NA
+Oct to Dec 2017,London Overground,87.8,2017,NA
+Jan to Mar 2018,London Overground,90.2,2018,NA
+Apr to Jun 2018,London Overground,92.1,2018,NA
+Jul to Sep 2018,London Overground,91.4,2018,NA
+Oct to Dec 2018,London Overground,89.9,2018,NA
+Jan to Mar 2019,London Overground,91.7,2019,NA
+Apr to Jun 2019,London Overground,92.5,2019,3.1
+Jul to Sep 2019,London Overground,90.7,2019,3.9
+Oct to Dec 2019,London Overground,90,2019,3.8
+Jan to Mar 2020,London Overground,90.4,2020,4.4
+Apr to Jun 2020,London Overground,97.4,2020,2.1
+Jul to Sep 2020,London Overground,96.2,2020,2.3
+Oct to Dec 2020,London Overground,95.5,2020,2.4
+Jan to Mar 2021,London Overground,96.8,2021,2.2
+Apr to Jun 2021,London Overground,96.1,2021,2.2
+Jul to Sep 2021,London Overground,95.6,2021,2.7
+Oct to Dec 2021,London Overground,94.4,2021,2.9
+Jan to Mar 2022,London Overground,95,2022,3.1
+Apr to Jun 2022,London Overground,95.1,2022,2.8
+Jul to Sep 2022,London Overground,93.2,2022,4.1
+Oct to Dec 2022,London Overground,91.2,2022,3.9
+Jan to Mar 2023,London Overground,92.7,2023,3.1
+Apr to Jun 2023,London Overground,93.2,2023,2.8
+Jul to Sep 2023,London Overground,93.2,2023,3
+Oct to Dec 2023,London Overground,90.6,2023,3.5
+Jan to Mar 2024,London Overground,92.4,2024,2.7
+Apr to Jun 2024,London Overground,92.8,2024,3.6
+Jul to Sep 2024,London Overground,91.7,2024,3.2
+Oct to Dec 2024,London Overground,89.6,2024,4.2
+Jan to Mar 2025,London Overground,91.5,2025,2.9
+Apr to Jun 2025 [p],London Overground,90.7,2025,NA
+Jul to Sep 2025 [p],London Overground,91.2,2025,NA
+Oct to Dec 2021,Lumo [note 3],68.7,2021,NA
+Jan to Mar 2022,Lumo,79,2022,2.6
+Apr to Jun 2022,Lumo,76.3,2022,2.2
+Jul to Sep 2022,Lumo,71.8,2022,4.8
+Oct to Dec 2022,Lumo,65.7,2022,3.1
+Jan to Mar 2023,Lumo,70.1,2023,2.4
+Apr to Jun 2023,Lumo,73,2023,2.1
+Jul to Sep 2023,Lumo,73.4,2023,1.2
+Oct to Dec 2023,Lumo,58.4,2023,5.3
+Jan to Mar 2024,Lumo,75,2024,2
+Apr to Jun 2024,Lumo,72.6,2024,0.6
+Jul to Sep 2024,Lumo,73,2024,1.5
+Oct to Dec 2024,Lumo,66.9,2024,1
+Jan to Mar 2025,Lumo,72,2025,1.7
+Apr to Jun 2025 [p],Lumo,71.7,2025,NA
+Jul to Sep 2025 [p],Lumo,70.1,2025,NA
+Apr to Jun 2014,Merseyrail,94.7,2014,NA
+Jul to Sep 2014,Merseyrail,91.7,2014,NA
+Oct to Dec 2014,Merseyrail,91.2,2014,NA
+Jan to Mar 2015,Merseyrail,94.4,2015,NA
+Apr to Jun 2015,Merseyrail,94.3,2015,NA
+Jul to Sep 2015,Merseyrail,92.7,2015,NA
+Oct to Dec 2015,Merseyrail,88.3,2015,NA
+Jan to Mar 2016,Merseyrail,92.3,2016,NA
+Apr to Jun 2016,Merseyrail,93.5,2016,NA
+Jul to Sep 2016,Merseyrail,92.4,2016,NA
+Oct to Dec 2016,Merseyrail,89.8,2016,NA
+Jan to Mar 2017,Merseyrail,93.2,2017,NA
+Apr to Jun 2017,Merseyrail,92.7,2017,NA
+Jul to Sep 2017,Merseyrail,88.7,2017,NA
+Oct to Dec 2017,Merseyrail,89.8,2017,NA
+Jan to Mar 2018,Merseyrail,91.6,2018,NA
+Apr to Jun 2018,Merseyrail,92.8,2018,NA
+Jul to Sep 2018,Merseyrail,91.5,2018,NA
+Oct to Dec 2018,Merseyrail,91.9,2018,NA
+Jan to Mar 2019,Merseyrail,93.1,2019,NA
+Apr to Jun 2019,Merseyrail,93.8,2019,1.1
+Jul to Sep 2019,Merseyrail,93.4,2019,1.1
+Oct to Dec 2019,Merseyrail,93.5,2019,1
+Jan to Mar 2020,Merseyrail,95.1,2020,1
+Apr to Jun 2020,Merseyrail,98,2020,0.5
+Jul to Sep 2020,Merseyrail,97.6,2020,0.8
+Oct to Dec 2020,Merseyrail,97.1,2020,1.6
+Jan to Mar 2021,Merseyrail,97.3,2021,1.6
+Apr to Jun 2021,Merseyrail,96.4,2021,0.9
+Jul to Sep 2021,Merseyrail,95.3,2021,0.8
+Oct to Dec 2021,Merseyrail,94.8,2021,1.6
+Jan to Mar 2022,Merseyrail,95.8,2022,1.1
+Apr to Jun 2022,Merseyrail,92.5,2022,1.8
+Jul to Sep 2022,Merseyrail,92.9,2022,2.3
+Oct to Dec 2022,Merseyrail,94.3,2022,2.4
+Jan to Mar 2023,Merseyrail,94.3,2023,2.2
+Apr to Jun 2023,Merseyrail,93.6,2023,2.2
+Jul to Sep 2023,Merseyrail,92.4,2023,2.4
+Oct to Dec 2023,Merseyrail,90.5,2023,4.1
+Jan to Mar 2024,Merseyrail,89.9,2024,3.7
+Apr to Jun 2024,Merseyrail,91,2024,3.3
+Jul to Sep 2024,Merseyrail,91.1,2024,3.2
+Oct to Dec 2024,Merseyrail,90.9,2024,3.7
+Jan to Mar 2025,Merseyrail,90.4,2025,4.2
+Apr to Jun 2025 [p],Merseyrail,90.1,2025,NA
+Jul to Sep 2025 [p],Merseyrail,90.9,2025,NA
+Apr to Jun 2014,Northern Trains,84.4,2014,NA
+Jul to Sep 2014,Northern Trains,81.7,2014,NA
+Oct to Dec 2014,Northern Trains,74.6,2014,NA
+Jan to Mar 2015,Northern Trains,84.3,2015,NA
+Apr to Jun 2015,Northern Trains,85,2015,NA
+Jul to Sep 2015,Northern Trains,83.7,2015,NA
+Oct to Dec 2015,Northern Trains,75.1,2015,NA
+Jan to Mar 2016,Northern Trains,83.8,2016,NA
+Apr to Jun 2016,Northern Trains,86.4,2016,NA
+Jul to Sep 2016,Northern Trains,85.7,2016,NA
+Oct to Dec 2016,Northern Trains,78.4,2016,NA
+Jan to Mar 2017,Northern Trains,85.8,2017,NA
+Apr to Jun 2017,Northern Trains,85.8,2017,NA
+Jul to Sep 2017,Northern Trains,84.2,2017,NA
+Oct to Dec 2017,Northern Trains,74.2,2017,NA
+Jan to Mar 2018,Northern Trains,81.2,2018,NA
+Apr to Jun 2018,Northern Trains,76.7,2018,NA
+Jul to Sep 2018,Northern Trains,74.9,2018,NA
+Oct to Dec 2018,Northern Trains,67.9,2018,NA
+Jan to Mar 2019,Northern Trains,81,2019,NA
+Apr to Jun 2019,Northern Trains,82.3,2019,2.4
+Jul to Sep 2019,Northern Trains,76.8,2019,3.7
+Oct to Dec 2019,Northern Trains,67.5,2019,5.9
+Jan to Mar 2020,Northern Trains,78.4,2020,4.5
+Apr to Jun 2020,Northern Trains,94.6,2020,0.6
+Jul to Sep 2020,Northern Trains,91.4,2020,0.9
+Oct to Dec 2020,Northern Trains,87.8,2020,1.7
+Jan to Mar 2021,Northern Trains,92.1,2021,1.9
+Apr to Jun 2021,Northern Trains,90.7,2021,1.6
+Jul to Sep 2021,Northern Trains,88.3,2021,2.5
+Oct to Dec 2021,Northern Trains,78.7,2021,3.8
+Jan to Mar 2022,Northern Trains,84.9,2022,5.4
+Apr to Jun 2022,Northern Trains,84.6,2022,3.9
+Jul to Sep 2022,Northern Trains,81.8,2022,4.1
+Oct to Dec 2022,Northern Trains,73,2022,4.8
+Jan to Mar 2023,Northern Trains,81,2023,4.2
+Apr to Jun 2023,Northern Trains,82.2,2023,4.3
+Jul to Sep 2023,Northern Trains,80.6,2023,5.6
+Oct to Dec 2023,Northern Trains,72,2023,7.5
+Jan to Mar 2024,Northern Trains,81.6,2024,3.7
+Apr to Jun 2024,Northern Trains,81.7,2024,4.9
+Jul to Sep 2024,Northern Trains,78.9,2024,6.5
+Oct to Dec 2024,Northern Trains,72.4,2024,8
+Jan to Mar 2025,Northern Trains,81.4,2025,4.1
+Apr to Jun 2025 [p],Northern Trains,80.9,2025,NA
+Jul to Sep 2025 [p],Northern Trains,78.7,2025,NA
+Apr to Jun 2014,ScotRail,91.4,2014,NA
+Jul to Sep 2014,ScotRail,85.5,2014,NA
+Oct to Dec 2014,ScotRail,82.6,2014,NA
+Jan to Mar 2015,ScotRail,87,2015,NA
+Apr to Jun 2015,ScotRail,90.9,2015,NA
+Jul to Sep 2015,ScotRail,88.8,2015,NA
+Oct to Dec 2015,ScotRail,80.4,2015,NA
+Jan to Mar 2016,ScotRail,87.5,2016,NA
+Apr to Jun 2016,ScotRail,87.6,2016,NA
+Jul to Sep 2016,ScotRail,84.8,2016,NA
+Oct to Dec 2016,ScotRail,80.6,2016,NA
+Jan to Mar 2017,ScotRail,88.2,2017,NA
+Apr to Jun 2017,ScotRail,88.8,2017,NA
+Jul to Sep 2017,ScotRail,88.9,2017,NA
+Oct to Dec 2017,ScotRail,78.2,2017,NA
+Jan to Mar 2018,ScotRail,85.4,2018,NA
+Apr to Jun 2018,ScotRail,87.1,2018,NA
+Jul to Sep 2018,ScotRail,84.4,2018,NA
+Oct to Dec 2018,ScotRail,78.2,2018,NA
+Jan to Mar 2019,ScotRail,87.5,2019,NA
+Apr to Jun 2019,ScotRail,90.1,2019,2.8
+Jul to Sep 2019,ScotRail,88.6,2019,2.3
+Oct to Dec 2019,ScotRail,83.5,2019,2.6
+Jan to Mar 2020,ScotRail,88,2020,2.3
+Apr to Jun 2020,ScotRail,96.1,2020,1
+Jul to Sep 2020,ScotRail,93.3,2020,2.4
+Oct to Dec 2020,ScotRail,90.8,2020,2
+Jan to Mar 2021,ScotRail,94,2021,2.5
+Apr to Jun 2021,ScotRail,93.3,2021,1.7
+Jul to Sep 2021,ScotRail,91.2,2021,2.7
+Oct to Dec 2021,ScotRail,85.4,2021,3.6
+Jan to Mar 2022,ScotRail,90.5,2022,2.9
+Apr to Jun 2022,ScotRail,91.6,2022,2.5
+Jul to Sep 2022,ScotRail,89.5,2022,2.3
+Oct to Dec 2022,ScotRail,84.5,2022,4.7
+Jan to Mar 2023,ScotRail,89.8,2023,2.2
+Apr to Jun 2023,ScotRail,91.4,2023,2
+Jul to Sep 2023,ScotRail,90.5,2023,2.1
+Oct to Dec 2023,ScotRail,84.9,2023,3.2
+Jan to Mar 2024,ScotRail,89.7,2024,2
+Apr to Jun 2024,ScotRail,90.6,2024,1.8
+Jul to Sep 2024,ScotRail,89.6,2024,1.9
+Oct to Dec 2024,ScotRail,84.6,2024,2.7
+Jan to Mar 2025,ScotRail,90.6,2025,1.9
+Apr to Jun 2025 [p],ScotRail,90.9,2025,NA
+Jul to Sep 2025 [p],ScotRail,88.8,2025,NA
+Apr to Jun 2014,South Western Railway,90.8,2014,NA
+Jul to Sep 2014,South Western Railway,89.8,2014,NA
+Oct to Dec 2014,South Western Railway,83.4,2014,NA
+Jan to Mar 2015,South Western Railway,87.4,2015,NA
+Apr to Jun 2015,South Western Railway,91,2015,NA
+Jul to Sep 2015,South Western Railway,89.6,2015,NA
+Oct to Dec 2015,South Western Railway,83.1,2015,NA
+Jan to Mar 2016,South Western Railway,86.1,2016,NA
+Apr to Jun 2016,South Western Railway,88.1,2016,NA
+Jul to Sep 2016,South Western Railway,85.4,2016,NA
+Oct to Dec 2016,South Western Railway,78.8,2016,NA
+Jan to Mar 2017,South Western Railway,84.8,2017,NA
+Apr to Jun 2017,South Western Railway,87.8,2017,NA
+Jul to Sep 2017,South Western Railway,81.7,2017,NA
+Oct to Dec 2017,South Western Railway,80.8,2017,NA
+Jan to Mar 2018,South Western Railway,80.4,2018,NA
+Apr to Jun 2018,South Western Railway,85.6,2018,NA
+Jul to Sep 2018,South Western Railway,78.6,2018,NA
+Oct to Dec 2018,South Western Railway,73.6,2018,NA
+Jan to Mar 2019,South Western Railway,82.6,2019,NA
+Apr to Jun 2019,South Western Railway,85.4,2019,2.5
+Jul to Sep 2019,South Western Railway,79.9,2019,3.4
+Oct to Dec 2019,South Western Railway,73.5,2019,4.3
+Jan to Mar 2020,South Western Railway,80.1,2020,5.1
+Apr to Jun 2020,South Western Railway,96.8,2020,1.1
+Jul to Sep 2020,South Western Railway,94.1,2020,1.8
+Oct to Dec 2020,South Western Railway,91.7,2020,2.5
+Jan to Mar 2021,South Western Railway,94.8,2021,1.8
+Apr to Jun 2021,South Western Railway,92.8,2021,2.6
+Jul to Sep 2021,South Western Railway,91.2,2021,2.2
+Oct to Dec 2021,South Western Railway,87.4,2021,2.9
+Jan to Mar 2022,South Western Railway,90.5,2022,3.5
+Apr to Jun 2022,South Western Railway,89.6,2022,2.1
+Jul to Sep 2022,South Western Railway,87.5,2022,2.5
+Oct to Dec 2022,South Western Railway,80.7,2022,3.1
+Jan to Mar 2023,South Western Railway,84.8,2023,3.2
+Apr to Jun 2023,South Western Railway,88.9,2023,3.2
+Jul to Sep 2023,South Western Railway,87.6,2023,2.2
+Oct to Dec 2023,South Western Railway,78.8,2023,4.6
+Jan to Mar 2024,South Western Railway,87,2024,3.3
+Apr to Jun 2024,South Western Railway,87.8,2024,3.1
+Jul to Sep 2024,South Western Railway,86.2,2024,3.7
+Oct to Dec 2024,South Western Railway,76.7,2024,4.8
+Jan to Mar 2025,South Western Railway,85.8,2025,3
+Apr to Jun 2025 [p],South Western Railway,85.7,2025,NA
+Jul to Sep 2025 [p],South Western Railway,84.2,2025,NA
+Apr to Jun 2014,Southeastern,89.1,2014,NA
+Jul to Sep 2014,Southeastern,89.8,2014,NA
+Oct to Dec 2014,Southeastern,82.7,2014,NA
+Jan to Mar 2015,Southeastern,89.5,2015,NA
+Apr to Jun 2015,Southeastern,88.3,2015,NA
+Jul to Sep 2015,Southeastern,86.6,2015,NA
+Oct to Dec 2015,Southeastern,79.8,2015,NA
+Jan to Mar 2016,Southeastern,82.8,2016,NA
+Apr to Jun 2016,Southeastern,85.9,2016,NA
+Jul to Sep 2016,Southeastern,85.1,2016,NA
+Oct to Dec 2016,Southeastern,78.2,2016,NA
+Jan to Mar 2017,Southeastern,83.5,2017,NA
+Apr to Jun 2017,Southeastern,90.2,2017,NA
+Jul to Sep 2017,Southeastern,87.9,2017,NA
+Oct to Dec 2017,Southeastern,81.4,2017,NA
+Jan to Mar 2018,Southeastern,82.8,2018,NA
+Apr to Jun 2018,Southeastern,85.7,2018,NA
+Jul to Sep 2018,Southeastern,87.6,2018,NA
+Oct to Dec 2018,Southeastern,82.7,2018,NA
+Jan to Mar 2019,Southeastern,85.9,2019,NA
+Apr to Jun 2019,Southeastern,90.9,2019,1.9
+Jul to Sep 2019,Southeastern,88.9,2019,2.1
+Oct to Dec 2019,Southeastern,82.6,2019,2.9
+Jan to Mar 2020,Southeastern,85.5,2020,2.9
+Apr to Jun 2020,Southeastern,96.7,2020,1.1
+Jul to Sep 2020,Southeastern,92.2,2020,1.7
+Oct to Dec 2020,Southeastern,89.1,2020,1.9
+Jan to Mar 2021,Southeastern,92.5,2021,2.3
+Apr to Jun 2021,Southeastern,92.1,2021,1.5
+Jul to Sep 2021,Southeastern,91.1,2021,1.9
+Oct to Dec 2021,Southeastern,85.6,2021,2.4
+Jan to Mar 2022,Southeastern,89.5,2022,3.1
+Apr to Jun 2022,Southeastern,90.4,2022,1.8
+Jul to Sep 2022,Southeastern,85.6,2022,2.4
+Oct to Dec 2022,Southeastern,78.9,2022,3.9
+Jan to Mar 2023,Southeastern,83.5,2023,3.2
+Apr to Jun 2023,Southeastern,88.5,2023,1.7
+Jul to Sep 2023,Southeastern,87.6,2023,1.8
+Oct to Dec 2023,Southeastern,82.1,2023,2.7
+Jan to Mar 2024,Southeastern,85.7,2024,2.2
+Apr to Jun 2024,Southeastern,88.4,2024,1.6
+Jul to Sep 2024,Southeastern,86.1,2024,2.4
+Oct to Dec 2024,Southeastern,78.9,2024,3.3
+Jan to Mar 2025,Southeastern,84.3,2025,2.4
+Apr to Jun 2025 [p],Southeastern,87.3,2025,NA
+Jul to Sep 2025 [p],Southeastern,85.9,2025,NA
+Apr to Jun 2014,TfW Rail,81.6,2014,NA
+Jul to Sep 2014,TfW Rail,79.5,2014,NA
+Oct to Dec 2014,TfW Rail,77.7,2014,NA
+Jan to Mar 2015,TfW Rail,85.8,2015,NA
+Apr to Jun 2015,TfW Rail,85.5,2015,NA
+Jul to Sep 2015,TfW Rail,82.7,2015,NA
+Oct to Dec 2015,TfW Rail,78.4,2015,NA
+Jan to Mar 2016,TfW Rail,83.7,2016,NA
+Apr to Jun 2016,TfW Rail,83.7,2016,NA
+Jul to Sep 2016,TfW Rail,80.7,2016,NA
+Oct to Dec 2016,TfW Rail,76.1,2016,NA
+Jan to Mar 2017,TfW Rail,85.5,2017,NA
+Apr to Jun 2017,TfW Rail,85.2,2017,NA
+Jul to Sep 2017,TfW Rail,83.4,2017,NA
+Oct to Dec 2017,TfW Rail,78.8,2017,NA
+Jan to Mar 2018,TfW Rail,86.4,2018,NA
+Apr to Jun 2018,TfW Rail,83.7,2018,NA
+Jul to Sep 2018,TfW Rail,80.8,2018,NA
+Oct to Dec 2018,TfW Rail,78.1,2018,NA
+Jan to Mar 2019,TfW Rail,85.8,2019,NA
+Apr to Jun 2019,TfW Rail,83.8,2019,1.7
+Jul to Sep 2019,TfW Rail,77.4,2019,2.5
+Oct to Dec 2019,TfW Rail,73.3,2019,3.4
+Jan to Mar 2020,TfW Rail,81.9,2020,3.5
+Apr to Jun 2020,TfW Rail,94.6,2020,0.8
+Jul to Sep 2020,TfW Rail,91.3,2020,1.7
+Oct to Dec 2020,TfW Rail,90.8,2020,2.2
+Jan to Mar 2021,TfW Rail,92.6,2021,2.3
+Apr to Jun 2021,TfW Rail,90.5,2021,2
+Jul to Sep 2021,TfW Rail,85.3,2021,2.5
+Oct to Dec 2021,TfW Rail,75.9,2021,7
+Jan to Mar 2022,TfW Rail,81.1,2022,4.1
+Apr to Jun 2022,TfW Rail,79.8,2022,3.1
+Jul to Sep 2022,TfW Rail,77.4,2022,3.8
+Oct to Dec 2022,TfW Rail,74.3,2022,5.1
+Jan to Mar 2023,TfW Rail,77.3,2023,5.8
+Apr to Jun 2023,TfW Rail,74.4,2023,7.2
+Jul to Sep 2023,TfW Rail,77.1,2023,4.5
+Oct to Dec 2023,TfW Rail,73.4,2023,5.6
+Jan to Mar 2024,TfW Rail,83.1,2024,3.3
+Apr to Jun 2024,TfW Rail,82.2,2024,4.1
+Jul to Sep 2024,TfW Rail,79.3,2024,5.2
+Oct to Dec 2024,TfW Rail,76.1,2024,7.6
+Jan to Mar 2025,TfW Rail,82.8,2025,4.5
+Apr to Jun 2025 [p],TfW Rail,83.7,2025,NA
+Jul to Sep 2025 [p],TfW Rail,84.1,2025,NA
+Apr to Jun 2014,TransPennine Express,73.2,2014,NA
+Jul to Sep 2014,TransPennine Express,67.1,2014,NA
+Oct to Dec 2014,TransPennine Express,59.4,2014,NA
+Jan to Mar 2015,TransPennine Express,72.5,2015,NA
+Apr to Jun 2015,TransPennine Express,74.3,2015,NA
+Jul to Sep 2015,TransPennine Express,70.8,2015,NA
+Oct to Dec 2015,TransPennine Express,56.8,2015,NA
+Jan to Mar 2016,TransPennine Express,70.8,2016,NA
+Apr to Jun 2016,TransPennine Express,74.6,2016,NA
+Jul to Sep 2016,TransPennine Express,73.4,2016,NA
+Oct to Dec 2016,TransPennine Express,64,2016,NA
+Jan to Mar 2017,TransPennine Express,74.8,2017,NA
+Apr to Jun 2017,TransPennine Express,75.4,2017,NA
+Jul to Sep 2017,TransPennine Express,74.2,2017,NA
+Oct to Dec 2017,TransPennine Express,60.7,2017,NA
+Jan to Mar 2018,TransPennine Express,68.9,2018,NA
+Apr to Jun 2018,TransPennine Express,60.7,2018,NA
+Jul to Sep 2018,TransPennine Express,53.9,2018,NA
+Oct to Dec 2018,TransPennine Express,51.5,2018,NA
+Jan to Mar 2019,TransPennine Express,66.4,2019,NA
+Apr to Jun 2019,TransPennine Express,68.8,2019,3.6
+Jul to Sep 2019,TransPennine Express,62.9,2019,6.5
+Oct to Dec 2019,TransPennine Express,53.7,2019,12.8
+Jan to Mar 2020,TransPennine Express,63,2020,8.5
+Apr to Jun 2020,TransPennine Express,92.1,2020,1.7
+Jul to Sep 2020,TransPennine Express,87.5,2020,1.7
+Oct to Dec 2020,TransPennine Express,84.6,2020,2.2
+Jan to Mar 2021,TransPennine Express,86.7,2021,3.3
+Apr to Jun 2021,TransPennine Express,88.2,2021,1.5
+Jul to Sep 2021,TransPennine Express,84.6,2021,1.8
+Oct to Dec 2021,TransPennine Express,73.7,2021,3.7
+Jan to Mar 2022,TransPennine Express,79.5,2022,5.2
+Apr to Jun 2022,TransPennine Express,77.9,2022,5
+Jul to Sep 2022,TransPennine Express,75.1,2022,6.3
+Oct to Dec 2022,TransPennine Express,66.9,2022,7.6
+Jan to Mar 2023,TransPennine Express,68.2,2023,7.5
+Apr to Jun 2023,TransPennine Express,70.2,2023,5.4
+Jul to Sep 2023,TransPennine Express,68.6,2023,4.9
+Oct to Dec 2023,TransPennine Express,59.7,2023,5.9
+Jan to Mar 2024,TransPennine Express,73,2024,3
+Apr to Jun 2024,TransPennine Express,73.4,2024,3
+Jul to Sep 2024,TransPennine Express,70,2024,4
+Oct to Dec 2024,TransPennine Express,63.8,2024,5.4
+Jan to Mar 2025,TransPennine Express,68.4,2025,4.2
+Apr to Jun 2025 [p],TransPennine Express,70.1,2025,NA
+Jul to Sep 2025 [p],TransPennine Express,68.7,2025,NA
+Apr to Jun 2014,West Midlands Trains,85.2,2014,NA
+Jul to Sep 2014,West Midlands Trains,83.4,2014,NA
+Oct to Dec 2014,West Midlands Trains,76.5,2014,NA
+Jan to Mar 2015,West Midlands Trains,83.5,2015,NA
+Apr to Jun 2015,West Midlands Trains,84,2015,NA
+Jul to Sep 2015,West Midlands Trains,83.7,2015,NA
+Oct to Dec 2015,West Midlands Trains,77.6,2015,NA
+Jan to Mar 2016,West Midlands Trains,84,2016,NA
+Apr to Jun 2016,West Midlands Trains,85.4,2016,NA
+Jul to Sep 2016,West Midlands Trains,84.2,2016,NA
+Oct to Dec 2016,West Midlands Trains,78.3,2016,NA
+Jan to Mar 2017,West Midlands Trains,84.1,2017,NA
+Apr to Jun 2017,West Midlands Trains,86.4,2017,NA
+Jul to Sep 2017,West Midlands Trains,85.2,2017,NA
+Oct to Dec 2017,West Midlands Trains,76,2017,NA
+Jan to Mar 2018,West Midlands Trains,80.2,2018,NA
+Apr to Jun 2018,West Midlands Trains,82.3,2018,NA
+Jul to Sep 2018,West Midlands Trains,81.4,2018,NA
+Oct to Dec 2018,West Midlands Trains,76.6,2018,NA
+Jan to Mar 2019,West Midlands Trains,84.4,2019,NA
+Apr to Jun 2019,West Midlands Trains,81,2019,2.5
+Jul to Sep 2019,West Midlands Trains,75,2019,4.8
+Oct to Dec 2019,West Midlands Trains,67.1,2019,7.7
+Jan to Mar 2020,West Midlands Trains,76.4,2020,5.6
+Apr to Jun 2020,West Midlands Trains,93.4,2020,1.1
+Jul to Sep 2020,West Midlands Trains,89.7,2020,2.3
+Oct to Dec 2020,West Midlands Trains,87.5,2020,2.8
+Jan to Mar 2021,West Midlands Trains,92,2021,2.5
+Apr to Jun 2021,West Midlands Trains,88.9,2021,3.7
+Jul to Sep 2021,West Midlands Trains,85.5,2021,5.2
+Oct to Dec 2021,West Midlands Trains,79.4,2021,5.8
+Jan to Mar 2022,West Midlands Trains,84.7,2022,4.2
+Apr to Jun 2022,West Midlands Trains,83.4,2022,4.4
+Jul to Sep 2022,West Midlands Trains,77.7,2022,4.8
+Oct to Dec 2022,West Midlands Trains,73.4,2022,5.1
+Jan to Mar 2023,West Midlands Trains,81.4,2023,2.8
+Apr to Jun 2023,West Midlands Trains,82.4,2023,3.8
+Jul to Sep 2023,West Midlands Trains,82.4,2023,4.4
+Oct to Dec 2023,West Midlands Trains,77.7,2023,5.6
+Jan to Mar 2024,West Midlands Trains,84.1,2024,3.4
+Apr to Jun 2024,West Midlands Trains,83.8,2024,4.4
+Jul to Sep 2024,West Midlands Trains,82.4,2024,5.6
+Oct to Dec 2024,West Midlands Trains,77.7,2024,6.4
+Jan to Mar 2025,West Midlands Trains,86.2,2025,3
+Apr to Jun 2025 [p],West Midlands Trains,85,2025,NA
+Jul to Sep 2025 [p],West Midlands Trains,83.4,2025,NA
